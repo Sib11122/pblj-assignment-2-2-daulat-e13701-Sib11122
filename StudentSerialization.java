@@ -92,6 +92,6 @@ public class StudentSerialization {
             deserializedStudent.display();
         } else {
             System.out.println("Deserialization failed.");
- }
+}
 }
 }

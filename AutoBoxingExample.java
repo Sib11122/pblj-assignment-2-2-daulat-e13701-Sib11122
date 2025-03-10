@@ -1,4 +1,5 @@
-// Write a Java program to calculate the sum of a list of integers using autoboxing and unboxing. Include methods to parse strings into their respective wrapper classes (e.g., Integer.parseInt()).
+//Write a Java program to calculate the sum of a list of integers using autoboxing and unboxing. Include methods to parse strings into their respective wrapper classes (e.g., Integer.parseInt()).
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -44,4 +45,3 @@ public class AutoBoxingExample {
         System.out.println("The sum of the numbers is: " + totalSum);
     }
 }
-
